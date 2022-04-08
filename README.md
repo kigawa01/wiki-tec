@@ -1,28 +1,23 @@
-# NAME //TODO
+# tec Wiki
 
 ## About
 
-* 
+* tec wiki
+* 備忘録
 
-## Requirement
+## Index
 
-* 
+*
+
 ## Author
 
 * kigawa
-  * kigawa.8390@gmail.com
+    * kigawa.8390@gmail.com
+  
+## Memo
 
-# Making
-
-## Version
-
-### Example: 9.1dev
-
-* **9.1dev**
-  * バージョン
-  * **9**: メジャー
-  * **1**: マイナー
-  * **dev**: ブランチ/mainのときはなし
+* https://www.pathname.com/fhs/pub/fhs-2.3.html
 
 ## ToDo
+
 * [ ] 
